@@ -1,1 +1,1 @@
-# ASP.Net-MVC-le-Kapsaml-E-Ticaret-Sitesi
+# ASP.Net-MVC-le-Kapsamlı-E-Ticaret-Sitesi
